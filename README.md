@@ -1,6 +1,4 @@
-# Project Name
-
-## Predictive Maintenance in Manufacturing
+# Predictive Maintenance in Manufacturing
 
 ### Table of Contents
 
